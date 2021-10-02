@@ -1,30 +1,17 @@
 {
-  "homepage": "http://thanghdheo.github.io/react-thuantodolist",
-  "name": "thuantodolist",
+  "name": "react-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@hookform/resolvers": "^2.8.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "bootstrap": "^5.1.1",
-    "node-sass": "^6.0.1",
     "react": "^17.0.2",
-    "react-bootstrap": "^2.0.0-rc.0",
     "react-dom": "^17.0.2",
-    "react-hook-form": "^7.17.0",
-    "react-redux": "^7.2.5",
     "react-scripts": "4.0.3",
-    "reactstrap": "^8.10.0",
-    "scss": "^0.2.4",
-    "uuid": "^8.3.2",
-    "web-vitals": "^1.1.2",
-    "yup": "^0.32.9"
+    "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,8 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
   }
 }

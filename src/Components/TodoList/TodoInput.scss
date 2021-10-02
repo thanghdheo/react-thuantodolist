@@ -1,0 +1,12 @@
+.todoform{
+    max-width: 25rem;
+    margin: 1px auto 1px auto;
+    &__name{
+        font-style: bold;
+        font-size: 1.4rem;
+    }
+    &__error{
+        color: red;
+        display: block;
+    }
+}

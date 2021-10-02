@@ -1,0 +1,24 @@
+.todolist{
+    padding: 12px 0;
+    max-width: 25rem;
+    margin: 1px auto 2px auto;
+    &__ul{
+        list-style: none;
+        padding: 0;
+    }
+    &__ul li{
+        border: 1.5px solid #ccc;
+        border-radius: 12px;
+        padding: 12px;
+        margin-top: 8px;
+        align-items: center;
+    }
+
+    &__ul li p{
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 150px;  
+    }
+   
+}
