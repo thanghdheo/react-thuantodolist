@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-thuantodolist/static/css/main.aa0e746f.chunk.css",
+    "main.js": "/react-thuantodolist/static/js/main.08691eb7.chunk.js",
+    "main.js.map": "/react-thuantodolist/static/js/main.08691eb7.chunk.js.map",
+    "runtime-main.js": "/react-thuantodolist/static/js/runtime-main.e8acd865.js",
+    "runtime-main.js.map": "/react-thuantodolist/static/js/runtime-main.e8acd865.js.map",
+    "static/css/2.f2512455.chunk.css": "/react-thuantodolist/static/css/2.f2512455.chunk.css",
+    "static/js/2.b9807022.chunk.js": "/react-thuantodolist/static/js/2.b9807022.chunk.js",
+    "static/js/2.b9807022.chunk.js.map": "/react-thuantodolist/static/js/2.b9807022.chunk.js.map",
+    "static/js/3.51b1384b.chunk.js": "/react-thuantodolist/static/js/3.51b1384b.chunk.js",
+    "static/js/3.51b1384b.chunk.js.map": "/react-thuantodolist/static/js/3.51b1384b.chunk.js.map",
+    "index.html": "/react-thuantodolist/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/react-thuantodolist/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.aa0e746f.chunk.css.map": "/react-thuantodolist/static/css/main.aa0e746f.chunk.css.map",
+    "static/js/2.b9807022.chunk.js.LICENSE.txt": "/react-thuantodolist/static/js/2.b9807022.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8acd865.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.b9807022.chunk.js",
+    "static/css/main.aa0e746f.chunk.css",
+    "static/js/main.08691eb7.chunk.js"
+  ]
+}
